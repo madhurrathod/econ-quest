@@ -32,3 +32,6 @@ Edit `index.html` and commit. GitHub Pages redeploys automatically. The lecture 
 
 ## Daily email reminder
 In the app: **Settings → Daily email reminder → Generate my reminder script**, then follow the steps shown. In the script, `setup` schedules the daily email and sends a test, `sendTestEmail` sends one now, and `stopReminders` turns it off.
+
+## Example of email reminder 
+<img width="579" height="527" alt="Screenshot 2026-10-15 at 13 11 15" src="https://github.com/user-attachments/assets/77bf46d0-a622-4552-960f-b36c4c056e88" />
